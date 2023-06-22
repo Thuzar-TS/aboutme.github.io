@@ -1853,15 +1853,12 @@ body.offcanvas .colorlib-nav-toggle {
 .colorlib-skills p {
   margin-bottom: 0px;
 }
-.proj .card {
+.proj .card-body {
   height: 250px;
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 20px;
   text-align: center;
-  vertical-align: middle;
-  display: table-cell;
-  width: inherit;
 }
 
 .proj > div {
