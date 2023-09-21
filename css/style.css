@@ -1052,8 +1052,8 @@ body.offcanvas .colorlib-nav-toggle {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
-  height: 100px;
+  width: 60px;
+  height: 60px;
   display: table;
   text-align: center;
   background: #f2f3f7;
@@ -1067,11 +1067,11 @@ body.offcanvas .colorlib-nav-toggle {
   vertical-align: middle;
   color: #2c98f0;
   font-size: 60px;
-  height: 100px;
+  height: 60px;
 }
 @media screen and (max-width: 1200px) {
   .colorlib-feature .colorlib-icon i {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 .colorlib-feature .colorlib-text {
@@ -1096,7 +1096,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
   color: #2c98f0;
-  font-size: 40px;
+  font-size: 30px;
 }
 @media screen and (max-width: 1200px) {
   .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
