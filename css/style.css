@@ -1075,7 +1075,7 @@ body.offcanvas .colorlib-nav-toggle {
   }
 }
 .colorlib-feature .colorlib-text {
-  padding-left: 120px;
+  padding-left: 80px;
   width: 100%;
 }
 .colorlib-feature .colorlib-text h2,
@@ -1092,7 +1092,10 @@ body.offcanvas .colorlib-nav-toggle {
   text-transform: uppercase;
 }
 .colorlib-feature.colorlib-feature-sm .colorlib-text {
-  margin-top: 30px;
+  /* margin-top: 10px; */
+  display: table-cell;
+  vertical-align: middle;
+  height: 60px;
 }
 .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
   color: #2c98f0;
@@ -1854,11 +1857,12 @@ body.offcanvas .colorlib-nav-toggle {
   margin-bottom: 0px;
 }
 .proj .card-body {
-  height: 250px;
+  min-height: 270px;
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 20px;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .proj > div {
