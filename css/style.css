@@ -110,7 +110,7 @@ figure figcaption {
   position: fixed;
   /* overflow-y: scroll; */
   z-index: 1001;
-  background: #0c264d;
+  background: #06162f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -1510,7 +1510,7 @@ body.offcanvas .colorlib-nav-toggle {
   /* background: #2c98f0;
   color: #fff;
   border: 2px solid #2c98f0; */
-  background: #0c264d;
+  background: #06162f;
   color: #fff;
   font-weight: bold;
   border: 2px solid #2c98f0;
@@ -1880,7 +1880,7 @@ body.offcanvas .colorlib-nav-toggle {
   font-weight: bold !important;
   border: 1px solid #ccc !important;
   box-shadow: gray 2px 2px !important;
-  background: #0c264d !important;
+  background: #06162f !important;
 }
 /* #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn {
 } */
@@ -1904,7 +1904,7 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .skill-box {
-  height: 170px;
+  min-height: 170px;
   background-color: #e6e6e6ad;
   padding: 10px 15px;
   border-radius: 0 0 4px 4px;
